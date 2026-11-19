@@ -1,0 +1,141 @@
+{
+ "firma": "Tierzucht Gulow",
+ "firma_genitiv": "von Tierzucht Gulow",
+ "stelle": "Landwirt (m/w/d)",
+ "ort": "Groß Pankow",
+ "plz": "16928",
+ "branche": "landwirtschaft",
+ "stelle_id": 1493,
+ "farbe_primary": "#653D1D",
+ "farbe_secondary": "#2B2B2B",
+ "region_badge": "Groß Pankow & Umgebung",
+ "benefit_top": "Unbefristet & von Stall bis Acker",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Abwechslung von Stall bis Acker mit moderner Technik",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Hilfe bei der Wohnungssuche",
+  "Kita-Zuschuss & vermögenswirksame Leistungen",
+  "Kostenübernahme für berufliche Zertifizierungen & interne Karrierechancen",
+  "Flache Hierarchien & freundliches Arbeitsklima",
+  "Betriebsausflüge & Mitarbeiter-Events"
+ ],
+ "aufgaben": [
+  "Du versorgst unsere rund 600 Rinder – Füttern, Einstreuen und Tierkontrolle",
+  "Du fährst im Ackerbau in Direktsaat moderne Maschinen – vom Traktor über Sämaschine und Spritze bis zum Mähdrescher",
+  "Du bringst dich im Futterbau ein: Grünlandpflege sowie Gras- und Maissilieren",
+  "Du pflegst und wartest unsere Maschinen"
+ ],
+ "anforderung": "Erfahrung im Umgang mit Rindern und in ihrer Versorgung, Erfahrung im Führen moderner Maschinen sowie Motivation und Teamfähigkeit. Du packst zuverlässig an und hast Freude an der Arbeit mit Tieren und Technik.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landwirt / Landwirtschaft",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Tierwirt / Rinderhaltung",
+   "icon": "🐄",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Fachkraft Agrarservice / Landtechnik",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "600",
+    "label": "Rinder"
+   },
+   {
+    "zahl": "950",
+    "label": "ha Ackerland"
+   },
+   {
+    "zahl": "370",
+    "label": "ha Grünland"
+   }
+  ],
+  "text": "Die Tierzuchtgenossenschaft Gulow eG ist ein landwirtschaftlicher Betrieb aus Groß Pankow in Brandenburg. Auf rund 950 ha Ackerland – seit 2024 in Direktsaat – und ca. 370 ha Grünland wachsen Raps, Getreide und Mais. Ein Schwerpunkt ist die Aufzucht von Kälbern und Jungrindern für Milchbauern, in einer tierartgerecht modernisierten Jungrinderanlage – moderne Technik und verantwortungsvolle Tierhaltung in einem engagierten Team."
+ },
+ "kunde_tab": "65 Tierzucht Gulow",
+ "quelle": "https://tierzucht-gulow.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Groß Pankow (16928)"
+ },
+ "hero_bild": "img/hero-schlepper-abendrot.jpg",
+ "bilder": [
+  "img/f-sven-maschinenhalle.jpg",
+  "img/f-rinder-fressgitter.jpg",
+  "img/f-direktsaat-claas.jpg",
+  "img/f-sven-stall-holstein.jpg",
+  "img/f-maehdrescher-ernte.jpg",
+  "img/f-ladewagen.jpg"
+ ],
+ "meta_geo": [
+  "Gulower Hauptstraße 20a, 16928 Groß Pankow"
+ ]
+}

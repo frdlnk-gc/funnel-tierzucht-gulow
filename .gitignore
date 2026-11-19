@@ -1,0 +1,9 @@
+raw/
+creatives-out/
+creatives-src/
+*.md
+dups/
+Icon?
+*.json
+!daten.json
+logo-weiss.png
